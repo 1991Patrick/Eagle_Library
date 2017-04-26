@@ -1,7 +1,7 @@
 /*!
- *  \file    main.c
+ *  \file    readme
  *  \author  Patrick Taling 
- *  \date    31/03/2017
+ *  \date    26/04/2017
  *  \version 1.0
  *
  *  \brief
